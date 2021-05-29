@@ -1,5 +1,5 @@
 # 6.009
-These are the solutions for 6.009, Spring 2021__
+These are the solutions for 6.009, Spring 2021\
 Lab 0: Audio Processing__
 Lab 1: Image Processing 1__
 Lab 2: Image Processing 2__
